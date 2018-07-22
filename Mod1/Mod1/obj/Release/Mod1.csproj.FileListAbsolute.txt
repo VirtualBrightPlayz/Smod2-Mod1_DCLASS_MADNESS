@@ -1,0 +1,8 @@
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\bin\Release\Mod1.dll
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\bin\Release\Mod1.pdb
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\bin\Release\Smod2.dll
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\obj\Release\Mod1.csproj.CoreCompileInputs.cache
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\obj\Release\Mod1.csproj.CopyComplete
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\obj\Release\Mod1.dll
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\obj\Release\Mod1.pdb
+D:\Users\Brian\Servers\scpsl\Mod1\Mod1\obj\Release\Mod1.csprojResolveAssemblyReference.cache
