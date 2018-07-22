@@ -3,4 +3,4 @@ DClass Madness is a gamemode made for SMod2 (https://github.com/Grover-c13/Smod2
 Upon Chaos spawning, they will spawn as MTF Commanders.
 ## Notes
 This is still a work in progress.
-#ENABLE TEAM KILLING!
+# ENABLE TEAM KILLING!
